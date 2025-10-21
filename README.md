@@ -65,7 +65,7 @@ This project explores the musical evolution of The Rolling Stones using their tr
 
 ## 👨‍💻 Author
 
-- **You** (Your Name / LinkedIn / GitHub)
+- Nitin Jena
 
 ---
 
